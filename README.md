@@ -13,9 +13,9 @@ This focuses on the company Netflix and study the analysis of TV-Show and Movies
 - EDA by Python. (in progress)
 
 ### Step 1:
-We Search about good data that contain many column types and a lot rows, and we found suitable data on https://www.kaggle.com/
+We Searched about alot of data that contains many types of columns,rows and we found suitable one >>>> https://www.kaggle.com/
 ### Step 2:
-Data was in only one table, and some columns were multivalued. 
+Data was in only one table and some columns were multivalued. 
 We tried to clean it by SQL But after searching we decided to use Power Query in Microsoft Excel. 
 
 ![image](https://user-images.githubusercontent.com/58444526/190162368-530e16ba-d4bd-4de6-a259-89664ef5eb7e.png)
