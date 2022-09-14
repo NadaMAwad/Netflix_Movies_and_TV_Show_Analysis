@@ -2,7 +2,7 @@
 This focuses on the company Netflix and study the analysis of TV-Show and Movies on the last 5 years. 
 
 # Worked on this project as a team.
-[ME](https://github.com/NadaMAwad) & [Mohameed MEslmani](https://github.com/MEslmaniiii)
+[Nada M Awad](https://github.com/NadaMAwad) & [Mohameed MEslmani](https://github.com/MEslmaniiii)
 
 ## Project Covers:
 - ERD.
