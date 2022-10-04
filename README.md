@@ -9,11 +9,11 @@ This focuses on the company Netflix and study the analysis of TV-Show and Movies
 - Normalization.
 - Data cleaning using Power Query in Excel.
 - Analysis by SQL Server.
-- Visualization by Power BI \ Tableau. (in progress)
+- Visualization by Tableau.
 - EDA by Python. (in progress)
 
 ### Step 1:
-We Searched about alot of data that contains many types of columns,rows and we found suitable one >>>> https://www.kaggle.com/
+We Searched about alot of data that contains many types of columns,rows and we found suitable one >>>> [Kaggle](https://www.kaggle.com/)
 ### Step 2:
 Data was in only one table and some columns were multivalued. 
 We tried to clean it by SQL But after searching we decided to use Power Query in Microsoft Excel. 
@@ -51,3 +51,9 @@ Then we import these Tables into SQL Server and create a Diagram that explains r
 ![image](https://user-images.githubusercontent.com/58444526/190162792-d2c8a551-4cf8-4bc5-bd3b-f9a56a5f3708.png)
 
 (Fig4. Database Diagram)
+
+### Visulization:
+We used Tableau in this stepm to show interactive dashboard: [Click Here](https://public.tableau.com/app/profile/nada.m.awad/viz/NetflixShowsAnalysis/Dashboard1?publish=yes)
+![image](https://user-images.githubusercontent.com/58444526/193762730-8fcdded2-af2e-4092-bb52-998d5f2116e6.png)
+
+(Fig5. Dashboard)
